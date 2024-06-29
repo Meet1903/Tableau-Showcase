@@ -1,0 +1,13 @@
+.myTableau {
+    align-items: center;
+    align-content: center;
+    padding-left: 200px;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: lighter;
+    align-self:center;
+    text-align: center;
+}
